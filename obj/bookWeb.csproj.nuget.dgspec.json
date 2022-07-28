@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mostafa\\Desktop\\bookWeb\\bookWeb.csproj": {}
+    "c:\\Users\\Mostafa\\Desktop\\bookWeb\\bookWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mostafa\\Desktop\\bookWeb\\bookWeb.csproj": {
+    "c:\\Users\\Mostafa\\Desktop\\bookWeb\\bookWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mostafa\\Desktop\\bookWeb\\bookWeb.csproj",
+        "projectUniqueName": "c:\\Users\\Mostafa\\Desktop\\bookWeb\\bookWeb.csproj",
         "projectName": "bookWeb",
-        "projectPath": "C:\\Users\\Mostafa\\Desktop\\bookWeb\\bookWeb.csproj",
+        "projectPath": "c:\\Users\\Mostafa\\Desktop\\bookWeb\\bookWeb.csproj",
         "packagesPath": "C:\\Users\\Mostafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mostafa\\Desktop\\bookWeb\\obj\\",
+        "outputPath": "c:\\Users\\Mostafa\\Desktop\\bookWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -24,7 +24,6 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,6 +41,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
