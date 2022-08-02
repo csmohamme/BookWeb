@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Mostafa\\Desktop\\bookWeb\\bookWeb.csproj": {}
+    "C:\\Users\\Mostafa\\Desktop\\bookWeb\\bookWeb.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Mostafa\\Desktop\\bookWeb\\bookWeb.csproj": {
+    "C:\\Users\\Mostafa\\Desktop\\bookWeb\\bookWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Mostafa\\Desktop\\bookWeb\\bookWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Mostafa\\Desktop\\bookWeb\\bookWeb.csproj",
         "projectName": "bookWeb",
-        "projectPath": "c:\\Users\\Mostafa\\Desktop\\bookWeb\\bookWeb.csproj",
+        "projectPath": "C:\\Users\\Mostafa\\Desktop\\bookWeb\\bookWeb.csproj",
         "packagesPath": "C:\\Users\\Mostafa\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Mostafa\\Desktop\\bookWeb\\obj\\",
+        "outputPath": "C:\\Users\\Mostafa\\Desktop\\bookWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -24,6 +24,7 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,6 +46,30 @@
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[6.0.7, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.0-preview3.22168.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0-preview.6.22329.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0-preview.6.22329.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0-preview.6.22329.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0-preview.6.22329.4, )"
             }
           },
           "imports": [
