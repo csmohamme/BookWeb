@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UaCgoBBzvJEBPXRdXRhpjLxdXb9iGuy049EdMD95p7I=",
+  "Hash": "G5WSiXY0NyX7LfU/en2g4IPKq3tsrc1mJKYRPpua4AE=",
   "Source": "bookWeb",
   "BasePath": "_content/bookWeb",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootswatch.css"
+    },
+    {
+      "Identity": "C:\\Users\\Mostafa\\Desktop\\bookWeb\\wwwroot\\css\\icon.css",
+      "SourceId": "bookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mostafa\\Desktop\\bookWeb\\wwwroot\\",
+      "BasePath": "_content/bookWeb",
+      "RelativePath": "css/icon.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\icon.css"
     },
     {
       "Identity": "C:\\Users\\Mostafa\\Desktop\\bookWeb\\wwwroot\\css\\site.css",
