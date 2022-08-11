@@ -11,7 +11,7 @@ namespace bookWeb.Models
         [Key]
         public int Id { get; set; }
         [Required]
-        public string? Name { get; set; }// you should delete
+        public string Name { get; set; }
         public int DisplayOrder { get; set; }
         public DateTime CreatedDateTime { get; set; } = DateTime.Now;
     }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2MB9FlfXQ4ADtKlXkY1Xq4QeSFSwnvbIuwWm/UVAjH0=",
+  "Hash": "UaCgoBBzvJEBPXRdXRhpjLxdXb9iGuy049EdMD95p7I=",
   "Source": "bookWeb",
   "BasePath": "_content/bookWeb",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "C:\\Users\\Mostafa\\Desktop\\bookWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\bookWeb.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\Mostafa\\Desktop\\bookWeb\\wwwroot\\css\\bootswatch.css",
+      "SourceId": "bookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mostafa\\Desktop\\bookWeb\\wwwroot\\",
+      "BasePath": "_content/bookWeb",
+      "RelativePath": "css/bootswatch.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatch.css"
+    },
+    {
       "Identity": "C:\\Users\\Mostafa\\Desktop\\bookWeb\\wwwroot\\css\\site.css",
       "SourceId": "bookWeb",
       "SourceType": "Discovered",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Mostafa\\Desktop\\bookWeb\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "SourceId": "bookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mostafa\\Desktop\\bookWeb\\wwwroot\\",
+      "BasePath": "_content/bookWeb",
+      "RelativePath": "js/bootstrap.bundle.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
       "Identity": "C:\\Users\\Mostafa\\Desktop\\bookWeb\\wwwroot\\js\\site.js",
