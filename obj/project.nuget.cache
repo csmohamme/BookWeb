@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gzMrjqP0gNi91kn1khFPHVkquJYSWnlTw5dLHRyR8Nsf2q/oI0iRAY+t4o+dvmXkVVHM4TfKHQn+UPuoNg/wfA==",
+  "dgSpecHash": "Lmq8X1WXOX46v9iAkJOu4+1xfRLTrYF1TjVeIQhu+4g2J01/mkDX2hGtruPbC8S1w5b0h2qTmmvCP4mjNAow+g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mostafa\\Desktop\\bookWeb\\bookWeb.csproj",
   "expectedPackageFiles": [
@@ -29,12 +29,12 @@
     "C:\\Users\\Mostafa\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0-preview.6.22324.4\\microsoft.extensions.caching.memory.7.0.0-preview.6.22324.4.nupkg.sha512",
     "C:\\Users\\Mostafa\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0-preview.6.22324.4\\microsoft.extensions.configuration.abstractions.7.0.0-preview.6.22324.4.nupkg.sha512",
     "C:\\Users\\Mostafa\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0-preview.6.22324.4\\microsoft.extensions.dependencyinjection.7.0.0-preview.6.22324.4.nupkg.sha512",
-    "C:\\Users\\Mostafa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-preview.6.22324.4\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\Mostafa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-preview.7.22375.6\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.7.22375.6.nupkg.sha512",
     "C:\\Users\\Mostafa\\.nuget\\packages\\microsoft.extensions.dependencymodel\\6.0.0\\microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
     "C:\\Users\\Mostafa\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0-preview.6.22324.4\\microsoft.extensions.logging.7.0.0-preview.6.22324.4.nupkg.sha512",
     "C:\\Users\\Mostafa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0-preview.6.22324.4\\microsoft.extensions.logging.abstractions.7.0.0-preview.6.22324.4.nupkg.sha512",
-    "C:\\Users\\Mostafa\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-preview.6.22324.4\\microsoft.extensions.options.7.0.0-preview.6.22324.4.nupkg.sha512",
-    "C:\\Users\\Mostafa\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-preview.6.22324.4\\microsoft.extensions.primitives.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\Mostafa\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-preview.7.22375.6\\microsoft.extensions.options.7.0.0-preview.7.22375.6.nupkg.sha512",
+    "C:\\Users\\Mostafa\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-preview.7.22375.6\\microsoft.extensions.primitives.7.0.0-preview.7.22375.6.nupkg.sha512",
     "C:\\Users\\Mostafa\\.nuget\\packages\\microsoft.identity.client\\4.43.2\\microsoft.identity.client.4.43.2.nupkg.sha512",
     "C:\\Users\\Mostafa\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.19.3\\microsoft.identity.client.extensions.msal.2.19.3.nupkg.sha512",
     "C:\\Users\\Mostafa\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.8.0\\microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",

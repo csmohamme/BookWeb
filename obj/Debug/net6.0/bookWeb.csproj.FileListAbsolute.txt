@@ -287,6 +287,7 @@ C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\refs\System.Xml.XPath.XDocumen
 C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\refs\WindowsBase.dll
 C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Azure.Core.dll
 C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Humanizer.dll
 C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
@@ -297,6 +298,7 @@ C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.d
 C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
@@ -316,7 +318,10 @@ C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Loggin
 C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\System.CodeDom.dll
 C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
@@ -383,8 +388,3 @@ C:\Users\Mostafa\Desktop\bookWeb\obj\Debug\net6.0\refint\bookWeb.dll
 C:\Users\Mostafa\Desktop\bookWeb\obj\Debug\net6.0\bookWeb.pdb
 C:\Users\Mostafa\Desktop\bookWeb\obj\Debug\net6.0\bookWeb.genruntimeconfig.cache
 C:\Users\Mostafa\Desktop\bookWeb\obj\Debug\net6.0\ref\bookWeb.dll
-C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Humanizer.dll
-C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Mono.TextTemplating.dll
-C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\System.CodeDom.dll
-C:\Users\Mostafa\Desktop\bookWeb\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll

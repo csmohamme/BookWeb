@@ -12,7 +12,7 @@ using bookWeb.Data;
 namespace bookWeb.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20220731052737_addCategoryToDatabase")]
+    [Migration("20220811144207_addCategoryToDatabase")]
     partial class addCategoryToDatabase
     {
         /// <inheritdoc />
